@@ -1,0 +1,11 @@
+.component {
+  background-color: antiquewhite;
+  color: blueviolet;
+  border-style: ridge;
+  border-color: #000;
+  border-width: 1px;
+}
+
+.component-line {
+  display: inline;
+}
